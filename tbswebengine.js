@@ -1,3 +1,11 @@
+window.addEventListener("load", function(){
+    document.querySelector(".preloader").classList.add("opacity-0");
+        
+    setTimeout(function(){
+        document.querySelector(".preloader").style.display="none";
+    },1000)
+})
+
 // Portfolio Item Filter
 
 const filterContainer=document.querySelector(".portfolio-filter"),
@@ -30,7 +38,6 @@ const filterContainer=document.querySelector(".portfolio-filter"),
     }
 
 
-
 // Portfolio Lightbox
     const lightbox=document.querySelector(".lightbox"),
         lightboxImg=lightbox.querySelector(".lightbox-img"),
@@ -43,7 +50,7 @@ const filterContainer=document.querySelector(".portfolio-filter"),
         portfolioItems[i].addEventListener("click", function(){
             itemIndex=i;
             changeItem();
-            toggleLightbox();
+            toggleLightbox();   
         })
     }
     function nextItem() {
@@ -84,9 +91,6 @@ const filterContainer=document.querySelector(".portfolio-filter"),
         }
 
     })
-
-
-
 
 
 // Navbar
