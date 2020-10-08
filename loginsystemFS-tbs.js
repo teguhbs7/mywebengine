@@ -38,7 +38,7 @@
 	  { // Object @ 2 index
 		username: "indra",
 		password: "indrabudikusuma"
-	},
+	}
 	  
 
 ]
