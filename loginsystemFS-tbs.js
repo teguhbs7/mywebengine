@@ -2,41 +2,41 @@
   var objPeople = [
 	  // AJP
 	{ // Object @ 0 index
-		username: "Imron"
+		username: "Imron",
 		password: "imron07"
 	},
 	  
 	  // BUMA LATI
 	{ // Object @ 1 index
-		username: "faisal"
+		username: "faisal",
 		password: "hfaisal998"
 	},
 	{ // Object @ 2 index
-		username: "kurnia"
+		username: "kurnia",
 		password: "kurniacr820"
 	},
 	  { // Object @ 2 index
-		username: "susanto"
+		username: "susanto",
 		password: "ssanto468"
 	},
 	  { // Object @ 2 index
-		username: "nur"
+		username: "nur",
 		password: "nurtri553"
 	},
 	  { // Object @ 2 index
-		username: "wawan"
+		username: "wawan",
 		password: "wawans73"
 	},
 	  { // Object @ 2 index
-		username: "rachmad"
+		username: "rachmad",
 		password: "rachmad57"
 	},
 	  { // Object @ 2 index
-		username: "ari"
+		username: "ari",
 		password: "ari735"
 	  },
 	  { // Object @ 2 index
-		username: "indra"
+		username: "indra",
 		password: "indrabudikusuma"
 	},
 	  
