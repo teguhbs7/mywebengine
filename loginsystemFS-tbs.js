@@ -2,7 +2,7 @@
   var objPeople = [
 	  // AJP
 	{ // Object @ 0 index
-		username: "Imron",
+		username: "imron",
 		password: "imron07"
 	},
 	  
