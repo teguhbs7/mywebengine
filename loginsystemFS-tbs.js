@@ -47,7 +47,14 @@ function getInfo() {
 	for(var i = 0; i < objPeople.length; i++) {
 		// check is user input matches username and password of a current index of the  objPeople array
 
-		if(username == objPeople[i].username && password == objPeople [i].password) {
+//		if(username == objPeople[i].username && password == objPeople [i].password) {
+//            function btntest_onclick(){
+//            	window.location.href = "https://support-fs.blogspot.com/p/controls.html";
+//            } btntest_onclick()
+//          return;
+//    	}
+		
+		if(username == imron && password == imron07) {
             function btntest_onclick(){
             	window.location.href = "https://support-fs.blogspot.com/p/controls.html";
             } btntest_onclick()
@@ -55,38 +62,29 @@ function getInfo() {
     	}
       
       
-      	else if(username !== objPeople[i].username && password !== objPeople [i].password) {
+      	else if(username == faisal && password == hfaisal998) {
            function btntest_onclick(){
-				//alert("Username dan Password Salah!");
-             	//var a;
-             	document.getElementById("alerts3").style.display = "block";
-             	return;
-             	//document.getElementByClassName("alerts").innerHTML = "op";
+            	window.location.href = "http://google.com/";
            } btntest_onclick()
           return;
         }
       
-      	else if(username !== objPeople[i].username) {
+      	else if(username == kurnia && password == kurniacr820) {
            function btntest_onclick(){
-				//alert("Username dan Password Salah!");
-             	//var a;
-             	document.getElementById("alerts1").style.display = "block";
-             	return;
-             	//document.getElementByClassName("alerts").innerHTML = "op";
+            	window.location.href = "http://google.com/";
            } btntest_onclick()
           return;
         }
       	
-      	else if(password !== objPeople [i].password) {
+      	else if(username == susanto && password == ssanto468) {
            function btntest_onclick(){
-				//alert("Username dan Password Salah!");
-             	//var a;
-             	document.getElementById("alerts2").style.display = "block";
-             	return;
-             	//document.getElementByClassName("alerts").innerHTML = "op";
+            	window.location.href = "http://google.com/";
            } btntest_onclick()
           return;
-        }
+        } else{
+		document.getElementById("alerts3").style.display = "block";
+             	return;
+	} btntest_onclick();
       
 	}
 		//console.log("incorrect username or password")
