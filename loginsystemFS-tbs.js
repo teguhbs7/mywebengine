@@ -62,21 +62,21 @@ function getInfo() {
     	}
       
       
-      	else if(username == faisal && password == hfaisal998) {
+		if(username == faisal && password == hfaisal998) {
            function btntest_onclick(){
             	window.location.href = "http://google.com/";
            } btntest_onclick()
           return;
         }
       
-      	else if(username == kurnia && password == kurniacr820) {
+      		if(username == kurnia && password == kurniacr820) {
            function btntest_onclick(){
             	window.location.href = "http://google.com/";
            } btntest_onclick()
           return;
         }
       	
-      	else if(username == susanto && password == ssanto468) {
+      		if(username == susanto && password == ssanto468) {
            function btntest_onclick(){
             	window.location.href = "http://google.com/";
            } btntest_onclick()
