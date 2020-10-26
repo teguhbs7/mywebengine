@@ -8,7 +8,7 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
     if (username === "imron" && password === "imron07") {
-        window.location.href = "https://support-fs.blogspot.com/p/controls.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/imron-ahmad-suhada.html?m=1";
         return;
     } else if (username === "faisal" && password === "hfaisal998") {
         window.location.href = "https://www.google.com/";
