@@ -8,13 +8,10 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
     if (username === "imron" && password === "imron07") {
-        /*alert("You have successfully logged in.");*/
         window.location.href = "https://support-fs.blogspot.com/p/controls.html";
         return;
     } else if (username === "faisal" && password === "hfaisal998") {
-        /*alert("You have successfully logged in.");*/
         window.location.href = "https://www.google.com/";
-        /*location.reload();*/
         return;
     } else {
         loginErrorMsg.style.opacity = 1;
