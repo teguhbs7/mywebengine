@@ -77,6 +77,21 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "sugeng" && password === "sugeng37") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-sugeng-basuki-ida-nugroho.html";
         return;
+    }
+    
+    //BUMA IBP
+    else if (username === "yulius" && password === "yulius03") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-yulius-tanggo-56df13v2drg56g1rd3t4d.html";
+        return;
+    }
+    
+    //BUMA Binungan
+    else if (username === "azhar" && password === "azhar456") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-azhar-hussamuddin.html";
+        return;
+    }else if (username === "faisal" && password === "faisal485") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-faisal-ambyah-x8c456d6x5f4xdf94xd6f.html";
+        return;
     } else {
         loginErrorMsg.style.opacity = 1;
     }
