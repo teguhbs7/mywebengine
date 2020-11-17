@@ -45,16 +45,37 @@ loginButton.addEventListener("click", (e) => {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
         return;
     } else if (username === "elang" && password === "elang396") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-elang-bangkit-ardianto.html";
         return;
     } else if (username === "ahmad" && password === "himawan497") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-ahmad-himawan-56sdf45df4d6t4rd564gd.html";
         return;
     } else if (username === "veri" && password === "veridwi985") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-veri-dwi-kurniawan.html";
         return;
     } else if (username === "ruwanto" && password === "ruwanto566") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-ruwanto-sd5a6d4as6d54asd3sad654asd6.html";
+        return;
+    }
+    
+    //BUMA SDJ
+     else if (username === "halsum" && password === "halsum513") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-halsum-se4ers54r54serse54rse57rse2r.html";
+        return;
+    } else if (username === "eko" && password === "Eko171294") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-eko-suhartono-df546df56s4fs86er5e21.html";
+        return;
+    } else if (username === "nur" && password === "nrro464") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/farnur-rochim-dfsdf4sdf564sd563f21sd6f5.html";
+        return;
+    } else if (username === "miftah" && password === "miftah37") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-miftah-arif-hanafi.html";
+        return;
+    } else if (username === "fajar" && password === "afajar22") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-fajar-ahmadi-df65dsfs6df41sd56f321f.html";
+        return;
+    } else if (username === "sugeng" && password === "sugeng37") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-sugeng-basuki-ida-nugroho.html";
         return;
     } else {
         loginErrorMsg.style.opacity = 1;
