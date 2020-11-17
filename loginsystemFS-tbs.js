@@ -6,11 +6,15 @@ loginButton.addEventListener("click", (e) => {
     e.preventDefault();
     const username = loginForm.username.value;
     const password = loginForm.password.value;
-
+    
+    //AJP Loa Kulu
     if (username === "imron" && password === "imron07") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/imron-ahmad-s_15.html";
         return;
-    } else if (username === "faisal" && password === "hfaisal998") {
+    }
+    
+    //BUMA LATI
+    else if (username === "faisal" && password === "hfaisal998") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-faisal-habib-9827372.html";
         return;
     } else if (username === "kurnia" && password === "kurniacr820") {
@@ -30,6 +34,27 @@ loginButton.addEventListener("click", (e) => {
         return;
     } else if (username === "indra" && password === "indrabudikusuma") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-ari-santoso-awere6r556t4er6t5erst45.html";
+        return;
+    }
+    
+    //BUMA adaro
+    else if (username === "daniel" && password === "daniel460") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/sdchnzulxlzjjkxcvxcv45xcv456xc4v1654xcv.html";
+        return;
+    } else if (username === "chrismono" && password === "chrism663") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        return;
+    } else if (username === "elang" && password === "elang396") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        return;
+    } else if (username === "ahmad" && password === "himawan497") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        return;
+    } else if (username === "veri" && password === "veridwi985") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
+        return;
+    } else if (username === "ruwanto" && password === "ruwanto566") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chrismono-asdijofjsdfojdgrt54g89d74.html";
         return;
     } else {
         loginErrorMsg.style.opacity = 1;
