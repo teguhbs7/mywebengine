@@ -183,7 +183,29 @@ loginButton.addEventListener("click", (e) => {
     
     //PAMA Bontang
     else if (username === "chairul" && password === "chairul13") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rohman-54dsd56f4s89f56sdf123sdfsd98.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-chairul-85sdf4s86f5sdf24sd89f56sd1f.html";
+        return;
+    }
+    
+    //100% view
+    //Petrosea Kideco
+    else if (username === "afif" && password === "afif35") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-afif-56f1sd56fgd1356df231gfdg6d5fg1.html";
+        return;
+    } else if (username === "endiyana" && password === "endi83") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-endiyana-56xd4f5df1xdf849f546d1xfse.html";
+        return;
+    }
+    
+    //Petrosea Tabang
+    else if (username === "argha" && password === "argha75") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-argha-sdf5s3df1sd56fs23f4sdf65s8d4f.html";
+        return;
+    } else if (username === "rio" && password === "ahrio96") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rio-sdsf54sdgf654th2131th85f64h123d.html";
+        return;
+    } else if (username === "fikry" && password === "fikry85") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-fikry-sdf4ds54f5sdf421fdgdfg56fv231.html";
         return;
     } else {
         loginErrorMsg.style.opacity = 1;
