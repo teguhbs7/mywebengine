@@ -207,6 +207,193 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "fikry" && password === "fikry85") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-fikry-sdf4ds54f5sdf421fdgdfg56fv231.html";
         return;
+    }
+    
+    // Petrosea Roto
+    else if (username === "sarwedi" && password === "sarwedi04") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-sarwedi-parhusip.html";
+        return;
+    }
+    
+    //PPA Satui
+    else if (username === "agnes" && password === "Ac1107") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-agnes-df54fg53g456ff4gfgh1fgh4fghhhf.html";
+        return;
+    } else if (username === "furqon" && password === "furqon444") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-furqon-sd45fsd5sdf4s2dfsdfsdf5644f8.html";
+        return;
+    } else if (username === "tri" && password === "trig798") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-tri-gunawan-sdf54sdf5464sd65fsd4fd6.html";
+        return;
+    } else if (username === "khrisna" && password === "khrisna636") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-khrisna-sdf56sdf1sd6f4f64sdf1s6dfsdf.html";
+        return;
+    } else if (username === "dede" && password === "dede195") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-dede-sdlfsdf6sd5fg8764d5f14g4d8r5d4.html";
+        return;
+    } else if (username === "kurniawan" && password === "kurniawan698") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-kurniawan-sdfs5f6s4fg8d65gvdg8r51gb.html";
+        return;
+    } else if (username === "robby" && password === "robby412") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-robby-prabowo-sdf5sdf587sd4f89sdf4d.html";
+        return;
+    } else if (username === "aji" && password === "aji298") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-aji-dfg5d6g4dfg5641df56g1d2f3g18df5.html";
+        return;
+    } else if (username === "dwi" && password === "dwiy998") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-dwi-dfg5d4fg86dfg54dfg5df4g8df5g4df.html";
+        return;
+    } else if (username === "adi" && password === "adi825") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-adi-nugroho-sd5f4sd8f564sd4fs8df562.html";
+        return;
+    } else if (username === "joko" && password === "joko332") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-joko-waluyo-sdf564fs6f48s6df513sdf8.html";
+        return;
+    } else if (username === "triyanto" && password === "triyanto595") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-triyanto-sd55464f6d4fgdf513g8d9f56g.html";
+        return;
+    } else if (username === "andri" && password === "andri48") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-andri-5534564xd6874dfx89f6xd54fx89d.html";
+        return;
+    }
+    
+    // RML Sesayap
+    else if (username === "ade" && password === "adepopy93") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-adepoppy-sd3541531f2sd5623sdf01sdf8.html";
+        return;
+    } else if (username === "agung" && password === "agung21") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-agung-65sd6f4s6df45sdfsd654f12sdf8s.html";
+        return;
+    } else if (username === "irvan" && password === "irvan52") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-irvan-65zsd564sd65f4s4fsd89f561sd23.html";
+        return;
+    } else if (username === "nur" && password === "nurhen57") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-nur-hendra-5s6z54dzs89d546123zsd8sd.html";
+        return;
+    } else if (username === "agus" && password === "agus855") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-agus-nizar-sdfd56f4dg8fg56d4fgd89fg.html";
+        return;
+    }
+    
+    // adaro SIS
+    else if (username === "misbakhul" && password === "mmunir02") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-munir-ddf6d54f86df5d4gdf89g654dfg12.html";
+        return;
+    } else if (username === "ahmad" && password === "rohim14") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rohim-54dz56zdf89sdf546123dfx89df54.html";
+        return;
+    } else if (username === "zohan" && password === "zohan49") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-zohan-zdd6f46df54xfg98xg56f1g489cf5.html";
+        return;
+    } else if (username === "anggara" && password === "anggara31") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-anggara-s64sdf8f468sdf4d6g5df44gdf5.html";
+        return;
+    }
+    
+    // SMA Manado
+     else if (username === "fauzi" && password === "fauzi33") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-fauzi-sdg65df4gf86g54tg4f8h56fc4h8f.html";
+        return;
+    } else if (username === "yanuar" && password === "yanuar51") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-yanuar-5jhgy87h54vh8tfh7564htf98th5.html";
+        return;
+    }
+    
+    // HPU Muara Teweh
+    else if (username === "yudi" && password === "yudii02") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-yudi-68df5x4fx8f5xd45fxdf46xd53d64f.html";
+        return;
+    } else if (username === "maiky" && password === "maiky43") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-maiky-g6f87t8f6y544fh23f1h8f9htf45f.html";
+        return;
+    }else if (username === "heru" && password === "heru98") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-heru-risma-969d8r96g465dg456g4d645d.html";
+        return;
+    } else if (username === "adi" && password === "adis86") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-adi-suherman-s56s4fs894f56s3g21drg8.html";
+        return;
+    }
+    
+    // HPU Damai
+    else if (username === "afif" && password === "afifal998") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-afif-56d4d864dr5trt213dr5d6r1dr5611.html";
+        return;
+    } else if (username === "rivai" && password === "rivai23") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rivai-ss6gdg4d98d645hd89th65d4h98dt.html";
+        return;
+    } else if (username === "hycmatiyar" && password === "hycmat14") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-hycmatiyar-fgh54hdr57h4drh25d4rh865.html";
+        return;
+    } else if (username === "arridlo" && password === "arridlo66") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-arridlo-dr6g5321gd89h516d23hd98h456.html";
+        return;
+    } else if (username === "raditia" && password === "raditia98") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-raditya-87es54se1fse89f4561gsr89grs.html";
+        return;
+    }
+    
+    // HPU Separi
+    else if (username === "melkah" && password === "melkah21") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-melkah-s897s9e8546rdrg89gd5r6g12dg8.html";
+        return;
+    } else if (username === "muhar" && password === "muhar39") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-muhar-erdr56g4drg96g5drgd9rg56dr5d6.html";
+        return;
+    } else if (username === "rifky" && password === "rifky03") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rifky-tyu6hg87f48h65c213cr89cb56f1c.html";
+        return;
+    } else if (username === "adi" && password === "adise07") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-adi-setiawan-drt5dr785d4rg8654drg31.html";
+        return;
+    }
+    
+    
+    // FS Balikpapan - Stal kuda
+    else if (username === "aryanto" && password === "aryanto49") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-aryanto-56d4f56dr321drg1g56r213dg01.html";
+        return;
+    } else if (username === "eka" && password === "ekacahya51") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-eka-cahya-fs67er89d56dr4gdr89g56dr1.html";
+        return;
+    } else if (username === "heru" && password === "heru66") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-heru-setiabudi-85g64drg56dr32g1dr89.html";
+        return;
+    } else if (username === "rama" && password === "rama73") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rama-putra-s8df7sd54sdf89sd6g5d4fg9.html";
+        return;
+    }
+    
+    // BUMA Tabang
+     else if (username === "rizki" && password === "Rd888") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rizki-diantoro-545d6s5fs4f9dg6d23gd.html";
+        return;
+    } else if (username === "agung" && password === "agungcn51") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-agung-89sd546fsdf489sd56fs321df89sf.html";
+        return;
+    } else if (username === "aji" && password === "aji698") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-aji-supriyanto-se6sdrt8dr7g54drg123.html";
+        return;
+    }
+    
+    // Service Section
+     else if (username === "hendra" && password === "hendranjr") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-hendra-lesmono-89r6g54d4rgdr89gdr56.html";
+        return;
+    } else if (username === "nuryanto" && password === "nuryanto73") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-nuryanto-8956d13fs86s51fd23sd8fsd53.html";
+        return;
+    }
+    
+    // KBL Tabang
+     else if (username === "lukman" && password === "lukmanf375") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-lukman-rtd87dr54gdrg89drg561dgr89dr.html";
+        return;
+    }
+    
+    // KBL Roto
+    else if (username === "araow" && password === "araow39") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-araow-6d5f4df8965df4xd89f56xd3f149x.html";
+        return;
     } else {
         loginErrorMsg.style.opacity = 1;
     }
