@@ -24,7 +24,7 @@ loginButton.addEventListener("click", (e) => {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-susanto-902349wj3ewrj.html";
         return;
     } else if (username === "1687" && password === "wawans73") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-susanto-902349wj3ewrj.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-wawan-setiyono-asdsf1s631f512e3s31r.html";
         return;
     } else if (username === "1378" && password === "rachmad57") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-rachmadesorkortdr21g2dg1t3r12445456.html";
@@ -33,7 +33,7 @@ loginButton.addEventListener("click", (e) => {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-ari-santoso-awere6r556t4er6t5erst45.html";
         return;
     } else if (username === "1402" && password === "indrabudikusuma") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-ari-santoso-awere6r556t4er6t5erst45.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-saya-loading-menu.html";
         return;
     }
     
