@@ -259,16 +259,16 @@ loginButton.addEventListener("click", (e) => {
     
     // PSG Berau
     else if (username === "1283" && password === "dwisy573") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-adepoppy-sd3541531f2sd5623sdf01sdf8.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-dwi-syalafuddin-sdf54f5sdf4sd21fsdf.html";
         return;
     } else if (username === "1650" && password === "zazin221") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-agung-65sd6f4s6df45sdfsd654f12sdf8s.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-zazin-cv-sf56d4fd321gdf89g56d23fg1d.html";
         return;
     } else if (username === "1769" && password === "handika446") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-irvan-65zsd564sd65f4s4fsd89f561sd23.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-handika-septi-abadi.html";
         return;
     } else if (username === "1821" && password === "ramadhan551") {
-        window.location.href = "https://far-fluidservice.blogspot.com/p/far-irvan-65zsd564sd65f4s4fsd89f561sd23.html";
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-ramadhan-fajriyanto.html";
         return;
     }
     
