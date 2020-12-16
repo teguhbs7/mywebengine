@@ -14,7 +14,7 @@ function PageQuery(q) {
 function queryString(key){ var page = new PageQuery(window.location.search); return unescape(page.getValue(key)); }
 if('b'+'ib'+'i'+'t.w'+'s'==bwscepot){ var cur_url=queryString("url");
 if(cur_url !== 'false' && cur_url !== 'undefined' && cur_url !== null && cur_url !== '') {
-document.write ("<meta http-equiv=\"refresh\" content=\"3; url=//go.ecotrackings.com/?token=jtOD4qKnccctQrsDPZPbd&url="+cur_url+"&sub1=blogku.blogspot.com&sub2=bwscepot\">");
+document.write ("<meta http-equiv=\"refresh\" content=\"3; url=//go.ecotrackings.com/?token=jtOD4qKnccctQrsDPZPbd&url="+cur_url+"&sub1=support-fs.blogspot.com&sub2=bwscepot\">");
 }
 else {
 document.write ("<meta http-equiv=\"refresh\" content=\"0; url=/p/myfs-download.html/">");
