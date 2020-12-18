@@ -189,7 +189,7 @@ loginButton.addEventListener("click", (e) => {
     
     //100% view
     //Petrosea Kideco
-    else if (username === "1553" && password === "afif35") {
+    else if (username === "1837" && password === "afif35") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-afif-56f1sd56fgd1356df231gfdg6d5fg1.html";
         return;
     } else if (username === "1634" && password === "endi83") {
