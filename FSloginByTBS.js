@@ -128,7 +128,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1458" && password === "santo359") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-mkpsusanto-52g1df56g54dg6dr53dr2tdr.html";
         return;
-    } else if (username === "1560" && password === "dena175") {
+    } else if (username === "1843" && password === "dena175") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-dena-56ds6sdf4sd56f45ds23f1sdfsd6f5.html";
         return;
     } else if (username === "1373" && password === "jator532") {
@@ -170,7 +170,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1416" && password === "ragil221") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-ragil-sd56f4sd56f4sdfsd856f4sd1f2sd.html";
         return;
-    } else if (username === "1561" && password === "denip629") {
+    } else if (username === "1838" && password === "denip629") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-deni-5s4ds5dfsdf8754fdgfh54h6gy5j1g.html";
         return;
     } else if (username === "indra" && password === "indrat858") {
@@ -222,7 +222,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1360" && password === "furqon444") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-furqon-sd45fsd5sdf4s2dfsdfsdf5644f8.html";
         return;
-    } else if (username === "1579" && password === "trig798") {
+    } else if (username === "1844" && password === "trig798") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-tri-gunawan-sdf54sdf5464sd65fsd4fd6.html";
         return;
     } else if (username === "1774" && password === "khrisna636") {
@@ -315,7 +315,7 @@ loginButton.addEventListener("click", (e) => {
     }
     
     // HPU Muara Teweh
-    else if (username === "1582" && password === "yudii02") {
+    else if (username === "1842" && password === "yudii02") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-yudi-68df5x4fx8f5xd45fxdf46xd53d64f.html";
         return;
     } else if (username === "1662" && password === "maiky43") {
@@ -333,7 +333,7 @@ loginButton.addEventListener("click", (e) => {
     else if (username === "1667" && password === "afifal998") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-afif-56d4d864dr5trt213dr5d6r1dr5611.html";
         return;
-    } else if (username === "1576" && password === "rivai23") {
+    } else if (username === "1841" && password === "rivai23") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-rivai-ss6gdg4d98d645hd89th65d4h98dt.html";
         return;
     } else if (username === "1820" && password === "hycmat14") {
@@ -351,7 +351,7 @@ loginButton.addEventListener("click", (e) => {
     else if (username === "1270" && password === "melkah21") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-melkah-s897s9e8546rdrg89gd5r6g12dg8.html";
         return;
-    } else if (username === "1569" && password === "muhar39") {
+    } else if (username === "1839" && password === "muhar39") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-muhar-erdr56g4drg96g5drgd9rg56dr5d6.html";
         return;
     } else if (username === "1792" && password === "rifky03") {
