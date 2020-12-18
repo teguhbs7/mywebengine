@@ -406,7 +406,7 @@ loginButton.addEventListener("click", (e) => {
     }
     
     // KBL Roto
-    else if (username === "araow" && password === "araow39") {
+    else if (username === "1629" && password === "araow39") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-araow-6d5f4df8965df4xd89f56xd3f149x.html";
         return;
     } else {
