@@ -357,7 +357,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1792" && password === "rifky03") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-rifky-tyu6hg87f48h65c213cr89cb56f1c.html";
         return;
-    } else if (username === "adi" && password === "adise07") {
+    } else if (username === "9665" && password === "adise07") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-adi-setiawan-drt5dr785d4rg8654drg31.html";
         return;
     }
