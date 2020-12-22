@@ -80,7 +80,7 @@ loginButton.addEventListener("click", (e) => {
     }
     
     //BUMA IBP
-    else if (username === "yulius" && password === "yulius03") {
+    else if (username === "9687" && password === "yulius03") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-yulius-tanggo-56df13v2drg56g1rd3t4d.html";
         return;
     }
@@ -158,7 +158,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1436" && password === "erfan195") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-erfan-623xfd53f12xdf56xdf213xdfxd56.html";
         return;
-    } else if (username === "abdul" && password === "hanif023") {
+    } else if (username === "9681" && password === "hanif023") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-hanif-x51fdxf4x5fdx5dfxd21fd84x56f4.html";
         return;
     } else if (username === "1376" && password === "taufik321") {
@@ -173,7 +173,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1838" && password === "denip629") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-deni-5s4ds5dfsdf8754fdgfh54h6gy5j1g.html";
         return;
-    } else if (username === "indra" && password === "indrat858") {
+    } else if (username === "9672" && password === "indrat858") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-indra-56sdf4sdf1sd32fsdf8s546df123s.html";
         return;
     } else if (username === "1813" && password === "frohman173") {
@@ -182,7 +182,7 @@ loginButton.addEventListener("click", (e) => {
     }
     
     //PAMA Bontang
-    else if (username === "chairul" && password === "chairul13") {
+    else if (username === "897" && password === "chairul13") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-chairul-85sdf4s86f5sdf24sd89f56sd1f.html";
         return;
     }
@@ -246,7 +246,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1307" && password === "adi825") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-adi-nugroho-sd5f4sd8f564sd4fs8df562.html";
         return;
-    } else if (username === "joko" && password === "joko332") {
+    } else if (username === "1150" && password === "joko332") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-joko-waluyo-sdf564fs6f48s6df513sdf8.html";
         return;
     } else if (username === "1798" && password === "triyanto595") {
@@ -364,16 +364,16 @@ loginButton.addEventListener("click", (e) => {
     
     
     // FS Balikpapan - Stal kuda
-    else if (username === "aryanto" && password === "aryanto49") {
+    else if (username === "1229" && password === "aryanto49") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-aryanto-56d4f56dr321drg1g56r213dg01.html";
         return;
-    } else if (username === "eka" && password === "ekacahya51") {
+    } else if (username === "1763" && password === "ekacahya51") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-eka-cahya-fs67er89d56dr4gdr89g56dr1.html";
         return;
-    } else if (username === "heru" && password === "heru66") {
+    } else if (username === "1350" && password === "heru66") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-heru-setiabudi-85g64drg56dr32g1dr89.html";
         return;
-    } else if (username === "rama" && password === "rama73") {
+    } else if (username === "1450" && password === "rama73") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-rama-putra-s8df7sd54sdf89sd6g5d4fg9.html";
         return;
     }
