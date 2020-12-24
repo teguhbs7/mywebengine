@@ -1,5 +1,5 @@
 const navTogglerBtn=document.querySelector(".hamburger-icon"),
-          aside=document.querySelector(".main-container");
+          aside=document.querySelector(".main-hamburger");
 
     navTogglerBtn.addEventListener("click",asideSectionTogglerBtn)
         // asideSectionTogglerBtn();
