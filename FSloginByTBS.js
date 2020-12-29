@@ -195,6 +195,9 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1634" && password === "endi83") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-endiyana-56xd4f5df1xdf849f546d1xfse.html";
         return;
+    } else if (username === "1840" && password === "riandc40") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rian-dwi-cahya-sd5df456f1dgd8f6g523.html";
+        return;
     }
     
     //Petrosea Tabang
@@ -409,7 +412,9 @@ loginButton.addEventListener("click", (e) => {
     else if (username === "1629" && password === "araow39") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-araow-6d5f4df8965df4xd89f56xd3f149x.html";
         return;
-    } else {
+    }
+    
+    else {
         loginErrorMsg.style.opacity = 1;
     }
 })
