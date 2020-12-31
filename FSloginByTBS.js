@@ -412,6 +412,9 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1855" && password === "007") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-teguhbs7-77777777777777777777777777.html";
         return;
+    } else if (username === "1709" && password === "isman989") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-isman-8d56f1g8956dfg1dfg84956fdg23d.html";
+        return;
     }
     
     // KBL Tabang
@@ -423,6 +426,12 @@ loginButton.addEventListener("click", (e) => {
     // KBL Roto
     else if (username === "1629" && password === "araow39") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-araow-6d5f4df8965df4xd89f56xd3f149x.html";
+        return;
+    }
+    
+    // Usertest Admin Only
+    else if (username === "0000" && password === "admin") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/usertest.html";
         return;
     }
     
