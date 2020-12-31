@@ -400,6 +400,18 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1266" && password === "nuryanto73") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-nuryanto-8956d13fs86s51fd23sd8fsd53.html";
         return;
+    } else if (username === "1379" && password === "sukran496") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-sukran-rahman-87sdf56sd4f6s5df132sd.html";
+        return;
+    } else if (username === "916" && password === "wahyu497") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-nur-rahmad-wahyu-handoko.html";
+        return;
+    } else if (username === "1301" && password === "subi123") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-subi-setiyawan-5475dg4dfg87df54g21d.html";
+        return;
+    } else if (username === "1855" && password === "007") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-teguhbs7-77777777777777777777777777.html";
+        return;
     }
     
     // KBL Tabang
