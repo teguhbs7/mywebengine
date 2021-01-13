@@ -434,6 +434,10 @@ loginButton.addEventListener("click", (e) => {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-krisna-abubakar.html";
         return;
     }
+    else if (username === "1352" && password === "arsy12nisa") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-fitriyani-maksum.html";
+        return;
+    }
     
     // Usertest Admin Only
     else if (username === "0000" && password === "admin") {
