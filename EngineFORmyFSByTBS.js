@@ -15,7 +15,7 @@ const navTogglerBtn=document.querySelector(".hamburger-icon"),
 
 // Catalog filter
 
-<div class='title-text'>
+
 // Portfolio Item Filter
 
 const filterContainer=document.querySelector(".portfolio-filter"),
