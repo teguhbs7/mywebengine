@@ -443,6 +443,7 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1269" && password === "rovky496") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-rovky-satya-jaya-tama.html";
         return;
+    }
     
     // Usertest Admin Only
     else if (username === "0000" && password === "admin") {
