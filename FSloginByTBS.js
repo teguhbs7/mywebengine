@@ -443,6 +443,9 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1269" && password === "rovky496") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-rovky-satya-jaya-tama.html";
         return;
+    } else if (username === "1156" && password === "supri21a") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-supriyanto-90soidjsiofserjkfsefserf.html";
+        return;
     }
     
     // Usertest Admin Only
