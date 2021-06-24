@@ -5,9 +5,11 @@ const loginErrorMsg = document.getElementById("login-error-msg");
 loginButton.addEventListener("click", (e) => {
     e.preventDefault();
     const username = loginForm.username.value;
+    const username = loginForm.section.value;
     
     
-    if (username === "ajp01") {
+    
+    if (username === "ajp01" && section === "sparepart") {
         window.location.href = "https://fluidserviceroster.blogspot.com/p/roster-ajp.html?m=1";
         return;
     }
@@ -68,8 +70,8 @@ loginButton.addEventListener("click", (e) => {
         return;
     }
     
-    else if (username === "kblroto31") {
-        window.location.href = "https://fluidserviceroster.blogspot.com/p/roster-kbl-roto.html";
+    else if (username === "sis-kl") {
+        window.location.href = "https://fluidserviceroster.blogspot.com/p/roster-sis-kelanis.html";
         return;
     }
     
