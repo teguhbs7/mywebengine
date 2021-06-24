@@ -8,8 +8,19 @@ loginButton.addEventListener("click", (e) => {
     const section = loginForm.section.value;
     
     
+    // EDJS Balikpapan
+    if (username === "edjsbpp" && section === "sparepart") {
+        window.location.href = "https://fluidserviceroster.blogspot.com/p/roster-fs-balikpapan.html";
+        return;
+    }
+    
+    else if (username === "edjsbpp" && section === "service") {
+        window.location.href = "https://fluidserviceroster.blogspot.com/p/roster-fs-balikpapan.html";
+        return;
+    }
+    
     // AJP
-    if (username === "ajp01" && section === "sparepart") {
+    else if (username === "ajp01" && section === "sparepart") {
         window.location.href = "https://fluidserviceroster.blogspot.com/p/roster-ajp.html?m=1";
         return;
     }
