@@ -5,7 +5,7 @@ const loginErrorMsg = document.getElementById("login-error-msg");
 loginButton.addEventListener("click", (e) => {
     e.preventDefault();
     const username = loginForm.username.value;
-    const username = loginForm.section.value;
+    const section = loginForm.section.value;
     
     
     
