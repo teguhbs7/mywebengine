@@ -77,7 +77,11 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1684" && password === "sugeng37") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-sugeng-basuki-ida-nugroho.html";
         return;
+    } else if (username === "1759" && password === "ardhi53") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-ardhi-sulistyo-aji.html";
+        return;
     }
+    
     
     //BUMA IBP
     else if (username === "9687" && password === "yulius03") {
