@@ -16,7 +16,7 @@ loginButton.addEventListener("click", (e) => {
        (username === "moedianto" && site === "buma-adaro") || 
        (username === "renita1906" && site === "buma-adaro") || 
        (username === "wahyu497" && site === "buma-adaro") ||
-       (username === "teguhbs7" && site === "buma-adaro") || ) {
+       (username === "teguhbs7" && site === "buma-adaro")) {
         window.location.href = "https://fs-sales.blogspot.com/p/my-fs-adaro-sis.html";
         return;
     
@@ -30,7 +30,7 @@ loginButton.addEventListener("click", (e) => {
        (username === "moedianto" && site === "sis-adaro") || 
        (username === "renita1906" && site === "sis-adaro") || 
         (username === "wahyu497" && site === "sis-adaro") ||
-       (username === "teguhbs7" && site === "sis-adaro") || ) {
+       (username === "teguhbs7" && site === "sis-adaro")) {
         window.location.href = "https://fs-sales.blogspot.com/p/my-fs-adaro-sis.html";
         return;
         
@@ -43,7 +43,7 @@ loginButton.addEventListener("click", (e) => {
        (username === "moedianto" && site === "ppa-satui") || 
        (username === "renita1906" && site === "ppa-satui") || 
         (username === "wahyu497" && site === "ppa-satui") ||
-       (username === "teguhbs7" && site === "ppa-satui") || ) {
+       (username === "teguhbs7" && site === "ppa-satui")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-ppa-satui.html";
         return;
     } else {
