@@ -425,6 +425,12 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1709" && password === "isman989") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-isman-8d56f1g8956dfg1dfg84956fdg23d.html";
         return;
+    } else if (username === "914" && password === "angga898") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-angga-ahmad-ramadhan.html";
+        return;
+    } else if (username === "853" && password === "rusmadi566") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-rusmadi.html";
+        return;
     }
     
     // KBL Tabang
