@@ -114,7 +114,10 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1473" && password === "iwan02") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/fariwan-budianto-sdfd53f21dg48df65g3dfg.html";
         return;
-    } else if (username === "1260" && password === "iman99") {
+    } else if (username === "1479" && password === "maman31") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-maman-sulaeman.html";
+        return;
+    }else if (username === "1260" && password === "iman99") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-mulhiman-hidayat.html";
         return;
     }
