@@ -431,6 +431,9 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "853" && password === "rusmadi566") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-rusmadi.html";
         return;
+    } else if (username === "9897" && password === "aris438") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-muhammad-aris.html";
+        return;
     }
     
     // KBL Tabang
