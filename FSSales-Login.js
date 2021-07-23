@@ -7,18 +7,73 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const site = loginForm.site.value;
     
+    //FLUID SERVICE SPAREPART - Balikpapan
+    if ((username === "ariyanto023" && site === "fssp-bpp") || 
+       (username === "ali098" && site === "fssp-bpp") || 
+       (username === "muhklis487" && site === "fssp-bpp") || 
+       (username === "armuhadi992" && site === "fssp-bpp") || 
+       (username === "haris668" && site === "fssp-bpp") || 
+       (username === "dwik925" && site === "fssp-bpp") || 
+       (username === "robbi213" && site === "fssp-bpp") || 
+       (username === "fiorel256" && site === "fssp-bpp") || 
+       (username === "rama73" && site === "fssp-bpp") || 
+       (username === "fs-bpp" && site === "fssp-bpp") || 
+        // SUPER USER
+       (username === "marselkl17" && site === "fssp-bpp") || 
+       (username === "Arsy12nisa" && site === "fssp-bpp") || 
+       (username === "moedianto" && site === "fssp-bpp") || 
+       (username === "renita1906" && site === "fssp-bpp") || 
+       (username === "wahyu497" && site === "fssp-bpp") ||
+       (username === "super-user" && site === "fssp-bpp") ||
+       (username === "fikri236" && site === "fssp-bpp") || 
+       (username === "teguhbs7" && site === "fssp-bpp")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-balikpapan.html";
+        return;
+        
+       //FLUID SERVICE SERVICE - Balikpapan
+    if ((username === "angga898" && site === "fssr-bpp") || 
+       (username === "wahyu497" && site === "fssr-bpp") || 
+       (username === "pram152" && site === "fssr-bpp") || 
+       (username === "subi123" && site === "fssr-bpp") || 
+       (username === "nuryanto73" && site === "fssr-bpp") || 
+       (username === "nurhasan432" && site === "fssr-bpp") || 
+       (username === "hendra231" && site === "fssr-bpp") || 
+       (username === "jonwidyo211" && site === "fssr-bpp") || 
+       (username === "isman989" && site === "fssr-bpp") || 
+       (username === "aris438" && site === "fssr-bpp") || 
+       (username === "dwisy573" && site === "fssr-bpp") || 
+       (username === "faisal485" && site === "fssr-bpp") || 
+       (username === "rahmat658" && site === "fssr-bpp") || 
+       (username === "lukmanf375" && site === "fssr-bpp") || 
+       (username === "fs-bpp" && site === "fssr-bpp") || 
+        // SUPER USER
+       (username === "marselkl17" && site === "fssr-bpp") || 
+       (username === "Arsy12nisa" && site === "fssr-bpp") || 
+       (username === "moedianto" && site === "fssr-bpp") || 
+       (username === "renita1906" && site === "fssr-bpp") || 
+       (username === "wahyu497" && site === "fssr-bpp") ||
+       (username === "super-user" && site === "fssr-bpp") ||
+       (username === "fikri236" && site === "fssr-bpp") || 
+       (username === "teguhbs7" && site === "fssr-bpp")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-balikpapan.html";
+        return;
+    
     //ADARO - BUMA
-    if ((username === "daniel460" && site === "buma-adaro") || 
+    } else if ((username === "daniel460" && site === "buma-adaro") || 
        (username === "chrism663" && site === "buma-adaro") || 
        (username === "veridwi985" && site === "buma-adaro") || 
+       (username === "himawan497" && site === "buma-adaro") || 
+       (username === "afajar22" && site === "buma-adaro") || 
+        // SUPER USER
        (username === "marselkl17" && site === "buma-adaro") || 
        (username === "Arsy12nisa" && site === "buma-adaro") || 
        (username === "moedianto" && site === "buma-adaro") || 
        (username === "renita1906" && site === "buma-adaro") || 
        (username === "wahyu497" && site === "buma-adaro") ||
        (username === "super-user" && site === "buma-adaro") ||
+       (username === "fikri236" && site === "buma-adaro") || 
        (username === "teguhbs7" && site === "buma-adaro")) {
-        window.location.href = "https://fs-sales.blogspot.com/p/my-fs-adaro-sis.html";
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-buma-adaro.html";
         return;
     
     // ADARO - SIS
@@ -32,13 +87,28 @@ loginButton.addEventListener("click", (e) => {
        (username === "renita1906" && site === "sis-adaro") || 
        (username === "wahyu497" && site === "sis-adaro") ||       
        (username === "super-user" && site === "sis-adaro") ||
+       (username === "fikri236" && site === "sis-adaro") || 
        (username === "teguhbs7" && site === "sis-adaro")) {
         window.location.href = "https://fs-sales.blogspot.com/p/my-fs-adaro-sis.html";
         return;
         
+       // BUMA - IBP
+    } else if ((username === "hendranjr" && site === "buma-ibp") || 
+               // SUPER USER
+       (username === "marselkl17" && site === "buma-ibp") || 
+       (username === "Arsy12nisa" && site === "buma-ibp") || 
+       (username === "moedianto" && site === "buma-ibp") || 
+       (username === "renita1906" && site === "buma-ibp") || 
+       (username === "wahyu497" && site === "buma-ibp") ||       
+       (username === "super-user" && site === "buma-ibp") ||
+       (username === "fikri236" && site === "buma-ibp") || 
+       (username === "teguhbs7" && site === "buma-ibp")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-buma-ibp.html";
+        return;
+        
        // BUMA - SDJ
     } else if ((username === "ardhi53" && site === "buma-sdj") || 
-       (username === "afajar22" && site === "buma-sdj") || 
+       //(username === "afajar22" && site === "buma-sdj") || 
        (username === "nrro464" && site === "buma-sdj") || 
        (username === "halsum513" && site === "buma-sdj") || 
        (username === "dwisy573" && site === "buma-sdj") || 
@@ -50,10 +120,59 @@ loginButton.addEventListener("click", (e) => {
        (username === "renita1906" && site === "buma-sdj") || 
        (username === "wahyu497" && site === "buma-sdj") ||       
        (username === "super-user" && site === "buma-sdj") ||
+       (username === "fikri236" && site === "buma-sdj") || 
        (username === "teguhbs7" && site === "buma-sdj")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-buma-sdj.html";
         return;
-      
+        
+       // BUMA - Tabang
+    } else if ((username === "aji698" && site === "buma-tbg") || 
+       (username === "Rd888" && site === "buma-tbg") || 
+       (username === "rizkyns646" && site === "buma-tbg") || 
+       (username === "agungcn51" && site === "buma-tbg") || 
+               // SUPER USER
+       (username === "marselkl17" && site === "buma-tbg") || 
+       (username === "Arsy12nisa" && site === "buma-tbg") || 
+       (username === "moedianto" && site === "buma-tbg") || 
+       (username === "renita1906" && site === "buma-tbg") || 
+       (username === "wahyu497" && site === "buma-tbg") ||       
+       (username === "super-user" && site === "buma-tbg") ||
+       (username === "fikri236" && site === "buma-tbg") || 
+       (username === "teguhbs7" && site === "buma-tbg")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-buma-tabang.html";
+        return;
+        
+       // HPU - Damai
+    } else if ((username === "rifky03" && site === "hpu-damai") || 
+       (username === "raditia98" && site === "hpu-damai") || 
+       (username === "heru98" && site === "hpu-damai") || 
+       (username === "arridlo66" && site === "hpu-damai") || 
+               // SUPER USER
+       (username === "marselkl17" && site === "hpu-damai") || 
+       (username === "Arsy12nisa" && site === "hpu-damai") || 
+       (username === "moedianto" && site === "hpu-damai") || 
+       (username === "renita1906" && site === "hpu-damai") || 
+       (username === "wahyu497" && site === "hpu-damai") ||       
+       (username === "super-user" && site === "hpu-damai") ||
+       (username === "fikri236" && site === "hpu-damai") || 
+       (username === "teguhbs7" && site === "hpu-damai")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-hpu-damai.html";
+        return;
+        
+       // HPU - Separi
+    } else if ((username === "maiky43" && site === "hpu-spr") || 
+       (username === "muhar39" && site === "hpu-spr") || 
+               // SUPER USER
+       (username === "marselkl17" && site === "hpu-spr") || 
+       (username === "Arsy12nisa" && site === "hpu-spr") || 
+       (username === "moedianto" && site === "hpu-spr") || 
+       (username === "renita1906" && site === "hpu-spr") || 
+       (username === "wahyu497" && site === "hpu-spr") ||       
+       (username === "super-user" && site === "hpu-spr") ||
+       (username === "fikri236" && site === "hpu-spr") || 
+       (username === "teguhbs7" && site === "hpu-spr")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-hpu-separi.html";
+        return;
         
     // MKP Sesayap
     }  else if ((username === "arahmat569" && site === "mkp-sesayap") || 
@@ -70,6 +189,7 @@ loginButton.addEventListener("click", (e) => {
        (username === "renita1906" && site === "mkp-sesayap") || 
        (username === "wahyu497" && site === "mkp-sesayap") ||
        (username === "super-user" && site === "mkp-sesayap") ||
+       (username === "fikri236" && site === "mkp-sesayap") || 
        (username === "teguhbs7" && site === "mkp-sesayap")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-mkp-sesayap.html";
         return;
@@ -84,8 +204,23 @@ loginButton.addEventListener("click", (e) => {
        (username === "renita1906" && site === "mtl-binungan") || 
        (username === "wahyu497" && site === "mtl-binungan") ||
        (username === "super-user" && site === "mtl-binungan") ||
+       (username === "fikri236" && site === "mtl-binungan") || 
        (username === "teguhbs7" && site === "mtl-binungan")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-mtl-binungan.html";
+        return;
+        
+       // Petrosea Freeport
+    }  else if ((username === "p-freeport" && site === "petrosea-frp") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "petrosea-frp") || 
+       (username === "Arsy12nisa" && site === "petrosea-frp") || 
+       (username === "moedianto" && site === "petrosea-frp") || 
+       (username === "renita1906" && site === "petrosea-frp") || 
+       (username === "wahyu497" && site === "petrosea-frp") ||
+       (username === "super-user" && site === "petrosea-frp") ||
+       (username === "fikri236" && site === "petrosea-frp") || 
+       (username === "teguhbs7" && site === "petrosea-frp")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-petrosea-freeport.html";
         return;
     
     // Petrosea Kideco
@@ -98,8 +233,24 @@ loginButton.addEventListener("click", (e) => {
        (username === "renita1906" && site === "petrosea-kdc") || 
        (username === "wahyu497" && site === "petrosea-kdc") ||
        (username === "super-user" && site === "petrosea-kdc") ||
+       (username === "fikri236" && site === "petrosea-kdc") || 
        (username === "teguhbs7" && site === "petrosea-kdc")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-petrosea-kideco.html";
+        return;
+        
+       // Petrosea Roto
+    }  else if ((username === "rahmat53" && site === "petrosea-roto") || 
+       (username === "endi83" && site === "petrosea-roto") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "petrosea-roto") || 
+       (username === "Arsy12nisa" && site === "petrosea-roto") || 
+       (username === "moedianto" && site === "petrosea-roto") || 
+       (username === "renita1906" && site === "petrosea-roto") || 
+       (username === "wahyu497" && site === "petrosea-roto") ||
+       (username === "super-user" && site === "petrosea-roto") ||
+       (username === "fikri236" && site === "petrosea-roto") || 
+       (username === "teguhbs7" && site === "petrosea-roto")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-petrosea-roto.html";
         return;
         
     // PPA Satui
@@ -112,6 +263,7 @@ loginButton.addEventListener("click", (e) => {
        (username === "renita1906" && site === "ppa-satui") || 
        (username === "wahyu497" && site === "ppa-satui") ||
        (username === "super-user" && site === "ppa-satui") ||
+       (username === "fikri236" && site === "ppa-satui") || 
        (username === "teguhbs7" && site === "ppa-satui")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-ppa-satui.html";
         return;
@@ -125,6 +277,7 @@ loginButton.addEventListener("click", (e) => {
        (username === "renita1906" && site === "psg-berau") || 
        (username === "wahyu497" && site === "psg-berau") ||
        (username === "super-user" && site === "psg-berau") ||
+       (username === "fikri236" && site === "psg-berau") || 
        (username === "teguhbs7" && site === "psg-berau")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-psg-berau.html";
         return;
