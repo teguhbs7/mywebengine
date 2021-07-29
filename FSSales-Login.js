@@ -57,6 +57,25 @@ loginButton.addEventListener("click", (e) => {
        (username === "teguhbs7" && site === "fssr-bpp")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-service-balikpapan.html";
         return;
+        
+       //FLUID SERVICE - Jakarta
+    } else if ((username === "bondan212" && site === "fs-jkt") || 
+       (username === "munir2351" && site === "fs-jkt") || 
+       (username === "maman31" && site === "fs-jkt") || 
+       (username === "iwan02" && site === "fs-jkt") || 
+       (username === "iman99" && site === "fs-jkt") || 
+       (username === "Doni471" && site === "fs-jkt") || 
+        // SUPER USER
+       (username === "marselkl17" && site === "fs-jkt") || 
+       (username === "Arsy12nisa" && site === "fs-jkt") || 
+       (username === "moedianto" && site === "fs-jkt") || 
+       (username === "renita1906" && site === "fs-jkt") || 
+       (username === "wahyu497" && site === "fs-jkt") ||
+       (username === "super-user" && site === "fs-jkt") ||
+       (username === "fikri236" && site === "fs-jkt") || 
+       (username === "teguhbs7" && site === "fs-jkt")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-jakarta.html";
+        return;
     
     //ADARO - BUMA
     } else if ((username === "daniel460" && site === "buma-adaro") || 
@@ -191,7 +210,7 @@ loginButton.addEventListener("click", (e) => {
         return;
         
        // HPU - Separi
-    } else if ((username === "maiky43" && site === "hpu-spr") || 
+     } else if ((username === "maiky43" && site === "hpu-spr") || 
        (username === "muhar39" && site === "hpu-spr") || 
                // SUPER USER
        (username === "marselkl17" && site === "hpu-spr") || 
@@ -224,6 +243,21 @@ loginButton.addEventListener("click", (e) => {
        (username === "teguhbs7" && site === "mkp-sesayap")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-mkp-sesayap.html";
         return;
+        
+    // MKR Toka Tindung
+    }  else if ((username === "yanuar51" && site === "mkr-toka") || 
+       (username === "fauzi33" && site === "mkr-toka") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "mkr-toka") || 
+       (username === "Arsy12nisa" && site === "mkr-toka") || 
+       (username === "moedianto" && site === "mkr-toka") || 
+       (username === "renita1906" && site === "mkr-toka") || 
+       (username === "wahyu497" && site === "mkr-toka") ||
+       (username === "super-user" && site === "mkr-toka") ||
+       (username === "fikri236" && site === "mkr-toka") || 
+       (username === "teguhbs7" && site === "mkr-toka")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-mkr-toka-tindung.html";
+        return;
     
     // MTL Binungan
     }  else if ((username === "daniel460" && site === "mtl-binungan") || 
@@ -238,6 +272,20 @@ loginButton.addEventListener("click", (e) => {
        (username === "fikri236" && site === "mtl-binungan") || 
        (username === "teguhbs7" && site === "mtl-binungan")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-mtl-binungan.html";
+        return;
+        
+    // PAMA adaro
+    }  else if ((username === "pama-adaro-site" && site === "pama-adr") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "pama-adr") || 
+       (username === "Arsy12nisa" && site === "pama-adr") || 
+       (username === "moedianto" && site === "pama-adr") || 
+       (username === "renita1906" && site === "pama-adr") || 
+       (username === "wahyu497" && site === "pama-adr") ||
+       (username === "super-user" && site === "pama-adr") ||
+       (username === "fikri236" && site === "pama-adr") || 
+       (username === "teguhbs7" && site === "pama-adr")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-pama-adaro.html";
         return;
         
        // Petrosea Freeport
