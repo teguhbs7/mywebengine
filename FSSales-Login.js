@@ -55,7 +55,7 @@ loginButton.addEventListener("click", (e) => {
        (username === "super-user" && site === "fssr-bpp") ||
        (username === "fikri236" && site === "fssr-bpp") || 
        (username === "teguhbs7" && site === "fssr-bpp")) {
-        window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-balikpapan.html";
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-service-balikpapan.html";
         return;
     
     //ADARO - BUMA
@@ -142,6 +142,20 @@ loginButton.addEventListener("click", (e) => {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-buma-tabang.html";
         return;
         
+       // DarmaHenwa - Asam Asam
+    } else if ((username === "supri98" && site === "dh-asm") || 
+               // SUPER USER
+       (username === "marselkl17" && site === "dh-asm") || 
+       (username === "Arsy12nisa" && site === "dh-asm") || 
+       (username === "moedianto" && site === "dh-asm") || 
+       (username === "renita1906" && site === "dh-asm") || 
+       (username === "wahyu497" && site === "dh-asm") ||       
+       (username === "super-user" && site === "dh-asm") ||
+       (username === "fikri236" && site === "dh-asm") || 
+       (username === "teguhbs7" && site === "dh-asm")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-darmahenwa-asam-asam.html";
+        return;
+        
        // HPU - Damai
     } else if ((username === "rifky03" && site === "hpu-damai") || 
        (username === "raditia98" && site === "hpu-damai") || 
@@ -157,6 +171,23 @@ loginButton.addEventListener("click", (e) => {
        (username === "fikri236" && site === "hpu-damai") || 
        (username === "teguhbs7" && site === "hpu-damai")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-hpu-damai.html";
+        return;
+        
+       // HPU - MGM
+    } else if ((username === "adis86" && site === "hpu-mgm") || 
+       (username === "yudii02" && site === "hpu-mgm") || 
+       (username === "ruwanto566" && site === "hpu-mgm") || 
+       (username === "rivai23" && site === "hpu-mgm") || 
+               // SUPER USER
+       (username === "marselkl17" && site === "hpu-mgm") || 
+       (username === "Arsy12nisa" && site === "hpu-mgm") || 
+       (username === "moedianto" && site === "hpu-mgm") || 
+       (username === "renita1906" && site === "hpu-mgm") || 
+       (username === "wahyu497" && site === "hpu-mgm") ||       
+       (username === "super-user" && site === "hpu-mgm") ||
+       (username === "fikri236" && site === "hpu-mgm") || 
+       (username === "teguhbs7" && site === "hpu-mgm")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-hpu-mgm.html";
         return;
         
        // HPU - Separi
@@ -280,6 +311,38 @@ loginButton.addEventListener("click", (e) => {
        (username === "fikri236" && site === "psg-berau") || 
        (username === "teguhbs7" && site === "psg-berau")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-psg-berau.html";
+        return;
+        
+       // PSG Padaidi
+    }  else if ((username === "hycmat14" && site === "psg-padaidi") || 
+       (username === "jator532" && site === "psg-padaidi") || 
+       (username === "zazin221" && site === "psg-padaidi") || 
+       (username === "rusmadi566" && site === "psg-padaidi") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "psg-padaidi") || 
+       (username === "Arsy12nisa" && site === "psg-padaidi") || 
+       (username === "moedianto" && site === "psg-padaidi") || 
+       (username === "renita1906" && site === "psg-padaidi") || 
+       (username === "wahyu497" && site === "psg-padaidi") ||
+       (username === "super-user" && site === "psg-padaidi") ||
+       (username === "fikri236" && site === "psg-padaidi") || 
+       (username === "teguhbs7" && site === "psg-padaidi")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-psg-padaidi.html";
+        return;
+        
+       // SMA Manado
+    }  else if ((username === "yanuar51" && site === "sma-mdo") || 
+       (username === "fauzi33" && site === "sma-mdo") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "sma-mdo") || 
+       (username === "Arsy12nisa" && site === "sma-mdo") || 
+       (username === "moedianto" && site === "sma-mdo") || 
+       (username === "renita1906" && site === "sma-mdo") || 
+       (username === "wahyu497" && site === "sma-mdo") ||
+       (username === "super-user" && site === "sma-mdo") ||
+       (username === "fikri236" && site === "sma-mdo") || 
+       (username === "teguhbs7" && site === "sma-mdo")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-sma-manado.html";
         return;
         
     } else {
