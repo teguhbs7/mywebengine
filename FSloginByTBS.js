@@ -463,6 +463,10 @@ loginButton.addEventListener("click", (e) => {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-supriyanto-90soidjsiofserjkfsefserf.html";
         return;
     }
+     else if (username === "1249" && password === "Doni471") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-maufur-romdloni.html";
+        return;
+    }
     
     // Usertest Admin Only
     else if (username === "0000" && password === "admin") {
