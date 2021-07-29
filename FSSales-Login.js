@@ -31,7 +31,7 @@ loginButton.addEventListener("click", (e) => {
         return;
         
        //FLUID SERVICE SERVICE - Balikpapan
-    if ((username === "angga898" && site === "fssr-bpp") || 
+    } else if ((username === "angga898" && site === "fssr-bpp") || 
        (username === "wahyu497" && site === "fssr-bpp") || 
        (username === "pram152" && site === "fssr-bpp") || 
        (username === "subi123" && site === "fssr-bpp") || 
