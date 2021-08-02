@@ -76,6 +76,20 @@ loginButton.addEventListener("click", (e) => {
        (username === "teguhbs7" && site === "fs-jkt")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-jakarta.html";
         return;
+        
+    //FLUID SERVICE - Tanjung Redeb
+    } else if ((username === "fluid-tjredeb" && site === "fs-tjr") || 
+        // SUPER USER
+       (username === "marselkl17" && site === "fs-tjr") || 
+       (username === "Arsy12nisa" && site === "fs-tjr") || 
+       (username === "moedianto" && site === "fs-tjr") || 
+       (username === "renita1906" && site === "fs-tjr") || 
+       (username === "wahyu497" && site === "fs-tjr") ||
+       (username === "super-user" && site === "fs-tjr") ||
+       (username === "fikri236" && site === "fs-tjr") || 
+       (username === "teguhbs7" && site === "fs-tjr")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-fluid-service-jakarta.html";
+        return;
     
     //ADARO - BUMA
     } else if ((username === "daniel460" && site === "buma-adaro") || 
@@ -119,11 +133,28 @@ loginButton.addEventListener("click", (e) => {
        (username === "Arsy12nisa" && site === "ajp-lku") || 
        (username === "moedianto" && site === "ajp-lku") || 
        (username === "renita1906" && site === "ajp-lku") || 
-       (username === "wahyu497" && site === "ajp-lku) ||
+       (username === "wahyu497" && site === "ajp-lku") ||
        (username === "super-user" && site === "ajp-lku") ||
        (username === "fikri236" && site === "ajp-lku") || 
        (username === "teguhbs7" && site === "ajp-lku")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-ajp-loa-kulu.html";
+        return;
+               
+       // BERAU - BINUNGAN
+    } else if ((username === "azhar456" && site === "berau-bng") || 
+       (username === "faisal485" && site === "berau-bng") || 
+       (username === "mjad046" && site === "berau-bng") || 
+       (username === "krisna27" && site === "berau-bng") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "berau-bng") || 
+       (username === "Arsy12nisa" && site === "berau-bng") || 
+       (username === "moedianto" && site === "berau-bng") || 
+       (username === "renita1906" && site === "berau-bng") || 
+       (username === "wahyu497" && site === "berau-bng") ||
+       (username === "super-user" && site === "berau-bng") ||
+       (username === "fikri236" && site === "berau-bng") || 
+       (username === "teguhbs7" && site === "berau-bng")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-berau-binungan.html";
         return;
         
        // BUMA - IBP
@@ -349,6 +380,20 @@ loginButton.addEventListener("click", (e) => {
        (username === "fikri236" && site === "petrosea-kdc") || 
        (username === "teguhbs7" && site === "petrosea-kdc")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-petrosea-kideco.html";
+        return;
+        
+    // Petrosea KSM
+    } else if ((username === "petrosea-ksm" && site === "petrosea-ksm") || 
+        // SUPER USER
+       (username === "marselkl17" && site === "petrosea-ksm") || 
+       (username === "Arsy12nisa" && site === "petrosea-ksm") || 
+       (username === "moedianto" && site === "petrosea-ksm") || 
+       (username === "renita1906" && site === "petrosea-ksm") || 
+       (username === "wahyu497" && site === "petrosea-ksm") ||
+       (username === "super-user" && site === "petrosea-ksm") ||
+       (username === "fikri236" && site === "petrosea-ksm") || 
+       (username === "teguhbs7" && site === "petrosea-ksm")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-petrosea-ksm.html";
         return;
         
        // Petrosea Roto
