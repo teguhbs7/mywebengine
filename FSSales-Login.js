@@ -111,6 +111,21 @@ loginButton.addEventListener("click", (e) => {
         window.location.href = "https://fs-sales.blogspot.com/p/my-fs-adaro-sis.html";
         return;
         
+       //AJP - LOA KULU
+    } else if ((username === "imron07" && site === "ajp-lku") || 
+       (username === "heru66" && site === "ajp-lku") || 
+        // SUPER USER
+       (username === "marselkl17" && site === "ajp-lku") || 
+       (username === "Arsy12nisa" && site === "ajp-lku") || 
+       (username === "moedianto" && site === "ajp-lku") || 
+       (username === "renita1906" && site === "ajp-lku") || 
+       (username === "wahyu497" && site === "ajp-lku) ||
+       (username === "super-user" && site === "ajp-lku") ||
+       (username === "fikri236" && site === "ajp-lku") || 
+       (username === "teguhbs7" && site === "ajp-lku")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-ajp-loa-kulu.html";
+        return;
+        
        // BUMA - IBP
     } else if ((username === "hendranjr" && site === "buma-ibp") || 
                // SUPER USER
@@ -123,6 +138,25 @@ loginButton.addEventListener("click", (e) => {
        (username === "fikri236" && site === "buma-ibp") || 
        (username === "teguhbs7" && site === "buma-ibp")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-buma-ibp.html";
+        return;
+        
+      // BUMA - LATI
+    } else if ((username === "ssanto468" && site === "buma-lati") || 
+       (username === "ari735" && site === "buma-lati") || 
+       (username === "rachmad57" && site === "buma-lati") || 
+       (username === "indrabudikusuma" && site === "buma-lati") || 
+       (username === "frohman173" && site === "buma-lati") || 
+       (username === "rovky496" && site === "buma-lati") || 
+               // SUPER USER
+       (username === "marselkl17" && site === "buma-lati") || 
+       (username === "Arsy12nisa" && site === "buma-lati") || 
+       (username === "moedianto" && site === "buma-lati") || 
+       (username === "renita1906" && site === "buma-lati") || 
+       (username === "wahyu497" && site === "buma-lati") ||       
+       (username === "super-user" && site === "buma-lati") ||
+       (username === "fikri236" && site === "buma-lati") || 
+       (username === "teguhbs7" && site === "buma-lati")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-buma-lati.html";
         return;
         
        // BUMA - SDJ
@@ -330,6 +364,22 @@ loginButton.addEventListener("click", (e) => {
        (username === "fikri236" && site === "petrosea-roto") || 
        (username === "teguhbs7" && site === "petrosea-roto")) {
         window.location.href = "https://fs-sales.blogspot.com/p/sales-petrosea-roto.html";
+        return;
+        
+       // Petrosea Tabang
+    }  else if ((username === "fikry85" && site === "petrosea-tbg") || 
+       (username === "ahrio96" && site === "petrosea-tbg") || 
+       (username === "argha75" && site === "petrosea-tbg") || 
+                // SUPER USER
+       (username === "marselkl17" && site === "petrosea-tbg") || 
+       (username === "Arsy12nisa" && site === "petrosea-tbg") || 
+       (username === "moedianto" && site === "petrosea-tbg") || 
+       (username === "renita1906" && site === "petrosea-tbg") || 
+       (username === "wahyu497" && site === "petrosea-tbg") ||
+       (username === "super-user" && site === "petrosea-tbg") ||
+       (username === "fikri236" && site === "petrosea-tbg") || 
+       (username === "teguhbs7" && site === "petrosea-tbg")) {
+        window.location.href = "https://fs-sales.blogspot.com/p/sales-petrosea-tabang.html";
         return;
         
     // PPA Satui
