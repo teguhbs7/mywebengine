@@ -475,6 +475,6 @@ loginButton.addEventListener("click", (e) => {
     }
     
     else {
-        loginErrorMsg.style.display = block;
+        loginErrorMsg.style.display = "block";
     }
 })
