@@ -462,11 +462,20 @@ loginButton.addEventListener("click", (e) => {
     } else if (username === "1156" && password === "supri21a") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-supriyanto-90soidjsiofserjkfsefserf.html";
         return;
-    }
-     else if (username === "1249" && password === "Doni471") {
+    } else if (username === "1249" && password === "Doni471") {
         window.location.href = "https://far-fluidservice.blogspot.com/p/far-maufur-romdloni.html";
         return;
+    } else if (username === "1906" && password === "rahmat658") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-muhammad-noor-rahmat.html";
+        return;
+    } else if (username === "1913" && password === "Alif951") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-muhammad-alif-maulana.html";
+        return;
+    } else if (username === "1914" && password === "Abdi556") {
+        window.location.href = "https://far-fluidservice.blogspot.com/p/far-abdi-magribi.html";
+        return;
     }
+    
     
     // Usertest Admin Only
     else if (username === "0000" && password === "admin") {
