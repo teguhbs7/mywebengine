@@ -310,7 +310,7 @@ loginButton.addEventListener("click", (e) => {
         return;
         
        // HPU - Damai
-    } else if ((username === "rifky03" && site === "hpu-damai") || 
+    } else if ((username === "Rifky121" && site === "hpu-damai") || 
        (username === "raditia98" && site === "hpu-damai") || 
        (username === "heru98" && site === "hpu-damai") || 
        (username === "arridlo66" && site === "hpu-damai") || 
